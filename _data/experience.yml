@@ -1,19 +1,48 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Eleusis Therapeutics 
+  # logo: eleusis.png
+  # link: https://www.eleusisltd.com/
+  position: Data Scientist
+  duration: Sept. 2021 &mdash; Jan. 2022
+  summary: Provided data management and analysis support to the Research Team by assisting with data ingestion, programming, implementation, analysis, and reporting of research outcomes.<ul class="resume-item-list"><li>Successfully built and implemented a data ingestion pipeline</li><li>Created data visualization dashboards using plotly and dash</li></ul>
+  # keywords:
+  #   - Python
+  #   - pandas
+  #   - numpy
+  #   - pltoly
+  #   - dash
+  #   - scikit-learn
 
+- company: Roth McFarlane Hand and Upper Limb Centre, St. Joseph's Health Care London
+  # logo: hulc.png
+  # link: https://www.sjhc.london.on.ca/areas-of-care/roth-mcfarlane-hand-and-upper-limb-centre-hulc
+  position: Research Engineer
+  duration:  Sept. 2020 &mdash; Present
+  summary: Responsible for conducting corporate orthopedic research<ul class="resume-item-list"><li>Led a study to investigate the performance of Wright Medical Group’s shoulder implant</li><li>Designed and led a study to validate a surgical navigation system for Intellijoint surgical</li><li> Gathered and analyzed data for LimaCorporate’s FDA approval of an orthopedic implant</li></ul>
+  # keywords:
+  #   - Python
+  #   - pandas
+  #   - numpy 
+  #   - plotly
+  #   - scikit-learn
+  #   - tensorflow
+  #   - MATLAB
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Western University
+  # logo: western_eng-hor.png
+  # link: https://www.eng.uwo.ca/
+  position: Teaching Assistant
+  duration:  Sept. 2020  &mdash; Present
+  summary: <ul class="resume-item-list"><li>Taught ”Computational Methods for Mechanical Engineers” (MME 2221B) , an introductory course on programming, data organization, processing techniques, numerical methods, and model formulation</li><li>Led tutorial help sessions for students encountering issues with programming</li></ul>
+  # keywords:
+  #   -MATLAB
+
+- company: Roth McFarlane Hand and Upper Limb Centre, St. Joseph's Health Care London
+  # logo: hulc.png
+  # link: https://www.sjhc.london.on.ca/areas-of-care/roth-mcfarlane-hand-and-upper-limb-centre-hulc
+  position: Student Research Analyst
+  duration:  May 2019  &mdash; Aug. 2019
+  summary: <ul class="resume-item-list"><li>Built a finite element simulation to analyze varus-valgus malpositioning of humeral total shoulder arthroplasty implants</li><li>Presented results of research and highlighted it’s clinical significance at the Undergraduate Summer Research day.</li><li>Received the Dean’s Award</li></ul>
+  # keywords:
+  #   - Python
