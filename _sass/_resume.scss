@@ -18,7 +18,7 @@
 
 // page header styles
 
-.page-header { padding: 1.5rem 0;
+.page-header { padding: 1.25rem 0;
 
   .avatar {
     width: 125px;
@@ -93,6 +93,9 @@
   .icon-link-item {
     display: inline-block;
     margin-left: 5px;
+    &:hover .icon path {
+      fill: #333;
+    }
   }
 
   .icon-link { display: inline-block;
@@ -100,6 +103,19 @@
     &:hover .icon path {
       fill: #333;
       @include transition(all .2s ease);
+    }
+  }
+
+  .icon-link-item-web{
+    @extend .icon-link-item;
+    &:hover .icon path {
+      fill: #23a359;
+    }
+  }
+
+  .icon-link { display: inline-block;
+    &:hover .icon path {
+      @include transition(all .25s ease);
     }
   }
 
@@ -114,12 +130,12 @@
   text-decoration: none;
   text-align: center;
   display: block;
-  margin: 1.5rem auto;
-  width: 220px;
+  margin: 1.0rem auto;
+  width: 200px;
   font-size: 1.375rem;
   @include sans_light;
   color: #333;
-  line-height: 55px;
+  line-height: 45px;
   @include transition(all .2s ease);
 
   &:hover {
@@ -136,6 +152,14 @@
   margin: 0 0 3rem;
 
   .resume-item { margin-bottom: 2rem; }
+
+  .resume-item-company {
+    margin-bottom: 0em;
+  }
+
+  .resume-item-logo {
+    height: 3em;
+  }
 
   .resume-item-title {
     @include sans_bold;
