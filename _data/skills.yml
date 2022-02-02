@@ -15,6 +15,9 @@
   rating: 3
   libraries: Tensorflow
 
+- skill: LaTeX
+  rating: 4
+
 - skill: Matlab
   rating: 3
 
