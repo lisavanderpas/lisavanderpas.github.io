@@ -1,12 +1,26 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
+
+- skill: Python
+  rating: 5
+
+- skill: Data Modeling / Wrangling
+  rating: 5
+  libraries: Pandas • Pandera • NumPy • Scikit Learn • SciPy • Statsmodels
+
+- skill: Data Visualization 
+  rating: 4
+  libraries: Plotly • Dash • Matplotlib
+
+- skill: Machine Learning
+  rating: 3
+  libraries: Tensorflow
+
+- skill: Matlab
   rating: 3
 
-# Communications strategy
-- skill: Communications strategy
+- skill: R
   rating: 3
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  rating: 3
+- skill: web development 
+  rating: 2
+  libraries: html • css • ruby

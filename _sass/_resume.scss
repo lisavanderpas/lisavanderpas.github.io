@@ -179,9 +179,16 @@
     }
   }
 
+  .resume-item-subgroup {
+    font-weight: 500;
+    font-size: .85rem;
+    margin: 0.15rem 0 0;
+  }
+
   .resume-item-title,
   .resume-item-details,
   .resume-item-copy,
+  .resume-item-subgroup,
   .resume-item-list {
     a {
       color: #333;
