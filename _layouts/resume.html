@@ -147,9 +147,44 @@
           <h2>Skills</h2>
         </header>
         {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
+        <div class="resume-item skill">
+          <h4 class="resume-item-details">
+            <span>{{ skill.skill }}</span>
+
+            <span class="skills rating star-icon direction-ltl value-{{ skill.rating }} color-ok medium">
+              <span class="star-container">
+                <span class="star">
+                  <i class="star-empty"></i>
+                  <i class="star-half"></i>
+                  <i class="star-filled"></i>
+                </span>
+
+                <span class="star">
+                  <i class="star-empty"></i>
+                  <i class="star-half"></i>
+                  <i class="star-filled"></i>
+                </span>
+
+                <span class="star">
+                  <i class="star-empty"></i>
+                  <i class="star-half"></i>
+                  <i class="star-filled"></i>
+                </span>
+
+                <span class="star">
+                  <i class="star-empty"></i>
+                  <i class="star-half"></i>
+                  <i class="star-filled"></i>
+                </span>
+
+                <span class="star">
+                  <i class="star-empty"></i>
+                  <i class="star-half"></i>
+                  <i class="star-filled"></i>
+                </span>
+              </span>
+            </span>
+          </h4>
         </div>
         {% endfor %}
 
