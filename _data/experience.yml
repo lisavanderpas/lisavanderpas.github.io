@@ -1,48 +1,70 @@
 # Jobs
 
-- #company: Eleusis Therapeutics 
-  logo: eleusis.png
-  link: https://www.eleusisltd.com/
-  position: Data Scientist
-  duration: Sept. 2021 &mdash; Jan. 2022
-  summary: Provided data management and analysis support to the Research Team by assisting with data ingestion, programming, implementation, analysis, and reporting of research outcomes.<ul class="resume-item-list"><li>Successfully built and implemented a data ingestion pipeline</li><li>Created data visualization dashboards using plotly and dash</li></ul>
-  # keywords:
-  #   - Python
-  #   - pandas
-  #   - numpy
-  #   - pltoly
-  #   - dash
-  #   - scikit-learn
-
 - #company: Roth McFarlane Hand and Upper Limb Centre, St. Joseph's Health Care London
   logo: hulc.png
   link: https://www.sjhc.london.on.ca/areas-of-care/roth-mcfarlane-hand-and-upper-limb-centre-hulc
   position: Research Engineer
-  duration:  Sept. 2020 &mdash; Present
-  summary: Responsible for conducting corporate orthopedic research<ul class="resume-item-list"><li>Led a study to investigate the performance of Wright Medical Group’s shoulder implant</li><li>Designed and led a study to validate a surgical navigation system for Intellijoint surgical</li><li> Gathered and analyzed data for LimaCorporate’s FDA approval of an orthopedic implant</li></ul>
+  duration:  May. 2020 &mdash; Present
+  summary: Responsible for supervising and assisting with orthopaedics prosthetic research<ul class="resume-item-list"><li>Developed custom experimental loading software for actuation of pneumatic systems in the laboratory. </li><li>Procured high-resolution machine vision cameras, and implemented digital tracking software for micromotion analysis of implants in-vitro.</li><li>Developed experimental testing protocols for th evaluation of Wright Medical's new implant desings. </li><li> Performed Finite Element evaluations on novel prosthetic desings. </li><li> Developed automatic loading planning software for anatomically-relevant joint loading experimental simulation. </li></ul>
   # keywords:
   #   - Python
   #   - pandas
   #   - numpy 
   #   - plotly
   #   - scikit-learn
-  #   - tensorflow
+  #   - scipy
   #   - MATLAB
+
+  - #company: Ricky Ratchets
+  logo: rickyratchets.png
+  link: https://rickyratchets.com/
+  position: Mechanical Repair Assistant
+  duration:  June. 2020  &mdash; Present
+  summary: <ul class="resume-item-list"><li>Welding and fabrication of automotive and shop floor parts. </li><li> Repair, replacement, and procurement of automotive parts and assemblies.  </li><li>Design and fabrication of custom snowplow and motor mounting arrangements. </li><li>Modification to existing vehicle designs. </li><li> Vehicle repair and inspection under the supervision of licenced automotive technicians</li></ul>
+  # keywords:
+  #   -MATLAB
 
 - #company: Western University
   logo: western_eng.png
   link: https://www.eng.uwo.ca/
   position: Teaching Assistant
   duration:  Sept. 2020  &mdash; Present
-  summary: <ul class="resume-item-list"><li>Taught ”Computational Methods for Mechanical Engineers” (MME 2221B) , an introductory course on programming, data organization, processing techniques, numerical methods, and model formulation</li><li>Led tutorial help sessions for students encountering issues with programming</li></ul>
+  summary: <ul class="resume-item-list"><li>Biomechanics of the MSK System - MME 4469B , an advanced course on the evaluation of biomechanical osseous and soft tissue mechanics.</li><li>Mechanical Components Design - MME 3380B , a mid-level course on the engineering analysis of mechanical components. </li><li>Product Design and Development - MME 2259A, an introductory course on SolidWorks modelling and best-practice engineering design. </li><li> Finite Element Methods - MME 9612L, a graduate introductory course on Finite Element Analysis methods and practical application of same. </li><li> Engineering Experimentation - MME 2285B, a mid-level course on experimental planning and design. </li><li> Industrial Materials - MME 2260A, a mid-level course on industrial material manufacturing processes. </li></ul>
   # keywords:
-  #   -MATLAB
+  #   -Teaching
+  #   -Evaluation
+  #   -GraderWorks
+  #   -SolidWorks
+  #   -CSWA-P
+  #   -CSWA-S
+  #   -CSWA
 
-- #company: Roth McFarlane Hand and Upper Limb Centre, St. Joseph's Health Care London
-  logo: hulc.png
-  link: https://www.sjhc.london.on.ca/areas-of-care/roth-mcfarlane-hand-and-upper-limb-centre-hulc
-  position: Student Research Analyst
-  duration:  May 2019  &mdash; Aug. 2019
-  summary: <ul class="resume-item-list"><li>Built a finite element simulation to analyze varus-valgus malpositioning of humeral total shoulder arthroplasty implants</li><li>Presented results of research and highlighted it’s clinical significance at the Undergraduate Summer Research day.</li><li>Received the Dean’s Award</li></ul>
+- #company: NOVA Chemicals
+  logo: NOVA.png
+  link: https://www.novachem.com/
+  position: Mechanical Reliability Engineering EIT
+  duration:  Janurary. 2019  &mdash; Aug. 2019
+  summary: <ul class="resume-item-list"><li>Implementation and design of condition monitoring plans for NOVA manufacturing east facilities. </li><li>Vibration analysis and preventative maintenance plan response using AMS Machinery Health.</li><li>Research, project planning, and implementation of Emerson Triaxial Accelerometer technology into NOVA condition monitoring program.</li><li>Structural auditing, level of safety design, and modification of existing high-pressure rotating equipment.</li><li>Gas testing, radiation testing, troubleshooting and repair of rotating equipment as per OSHA, API, and NOVA standards. </li></ul>
   # keywords:
-  #   - Python
+  #   -Petrochemical engineering
+
+- #company: NOVA Chemicals
+  logo: NOVA.png
+  link: https://www.novachem.com/
+  position: Polyethylene Engineering and Capital EIT
+  duration:  May. 2018  &mdash; January. 2019
+  summary: <ul class="resume-item-list"><li>Design of pressure vessels, high pressure piping, and associated components as per ASME B31.3 and ASME Sec. VIII Div. 1 standards.</li><li>Engineering design and documentation using MicroStation V7, V8, and pressure vessel design and piping stress analysis and design using CAEPIPE, CAESAR II, and PVElite. </li><li>Research, budget, and design implementation of various high pressure devices including heat exchangers, tubesheet filters, pulsation dampeners and other safety-critical equipment. </li><li>Equipment specification and stocking requirements using SAP. Performed low temperature embrittlement assessments and issued construction work packages for capital andmajor maintenance projects. </li></ul>
+  # keywords:
+  #   -Petrochemical engineering
+
+  - #company: Schneider Electric
+  logo: schneider.png
+  link: https://www.se.com/ca/en/
+  position: Manufacturing Engineering Systems Designer & Line/Inventory Specialist
+  duration:  Janurary. 2019  &mdash; Aug. 2019
+  summary: <ul class="resume-item-list"><li>Worked closely with department leadership to identify barriers in the pilot meter program.</li><li>Developed pilot unit scheduling software for the continuous improvement of the pilot meter program.  </li><li>Reviewed operating procedures throughout the 6-Sigma plant, presenting potential improvements to engineering groups in accordance with Six-Sigma best practice approaches. </li><liOperated high-potential (3300V+) testing machinery (LabView) for quality control and data analysis.</li><li>Adhered to 5S, KanBan, One Piece Flow, Poka-yoke and Jidoka best practices during assembly and testing of high-accuracy electrical monitoring equipment. </li><li>Operated conformal coating machinery for the heat-treating of environmentally-sensitive circuitry. </li></ul>
+  # keywords:
+  #   -Electrical engineering
+  #   -Six Sigma
+  #   -Assembly Line
+  #   -Power monitoring 
