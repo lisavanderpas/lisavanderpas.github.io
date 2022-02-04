@@ -1,5 +1,5 @@
 # Site settings
-title: "Gregory Spangenberg"
+title: "David Cunningham"
 description: "A resume about Greg"
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Gregory Spangenberg"
+resume_name:                    "David Cunningham"
 resume_title:                   "Data Scientist and PhD Student"
 
 # used for the contact button in _layouts/resume.html
