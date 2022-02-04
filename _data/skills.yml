@@ -3,7 +3,7 @@
 - skill: Python
   rating: 5
 
-- skill: Data Modeling / Wrangling
+- skill: Data Modeling / Statistical Analysis
   rating: 5
   libraries: Pandas  • NumPy • SciPy • Excel
 
