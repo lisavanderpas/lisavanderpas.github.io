@@ -126,16 +126,16 @@
           <h2>Grants and Fellowships</h2>
         </header>
 
-        {% for publication in site.data.grantsandfellowships %}
+        {% for grantsandfellowships in site.data.grantsandfellowships %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-details" itemprop="name">{% if publication.url %}<a href="{{ grantsandfellowships.url }}" itemprop="url">{{ grantsandfellowships.grantsandfellowships }}</a>{% else %}{{ grantsandfellowships.grantsandfellowships }}{% endif %}</h3>
+          <h3 class="resume-item-details" itemprop="name">{% if grantsandfellowships.url %}<a href="{{ grantsandfellowships.url }}" itemprop="url">{{ grantsandfellowships.grantsandfellowships }}</a>{% else %}{{ grantsandfellowships.grantsandfellowships }}{% endif %}</h3>
           <p class="resume-item-copy">{{ grantsandfellowships.awarder }}  &bull; {{ grantsandfellowships.date }}</p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Publications -->
+      <!-- end grantsandfellowships -->
       {% endif %}
 
       {% if site.resume_section_projects %}
