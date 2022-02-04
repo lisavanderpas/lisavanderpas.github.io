@@ -15,7 +15,7 @@
   #   - scipy
   #   - MATLAB
 
-  - #company: Ricky Ratchets
+- #company: Ricky Ratchets
   logo: rickyratchets.png
   link: https://rickyratchets.com/
   position: Mechanical Repair Assistant
@@ -57,7 +57,7 @@
   # keywords:
   #   -Petrochemical engineering
 
-  - #company: Schneider Electric
+- #company: Schneider Electric
   logo: schneider.png
   link: https://www.se.com/ca/en/
   position: Manufacturing Engineering Systems Designer & Line/Inventory Specialist
