@@ -99,7 +99,7 @@
       </section>
       <!-- end Education -->
       {% endif %}
-
+      
       {% if site.resume_section_publications %}
       <!-- begin Publications -->
       <section class="content-section">
@@ -112,6 +112,25 @@
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-details" itemprop="name">{% if publication.url %}<a href="{{ publication.url }}" itemprop="url">{{ publication.publication }}</a>{% else %}{{ publication.publication }}{% endif %}</h3>
           <p class="resume-item-copy">{{ publication.journal }}  &bull; {{ publication.date }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
+
+      {% if site.resume_section_grantsandfellowships %}
+      <!-- begin grantsandfellowships -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Grants and Fellowships</h2>
+        </header>
+
+        {% for publication in site.data.grantsandfellowships %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h3 class="resume-item-details" itemprop="name">{% if publication.url %}<a href="{{ grantsandfellowships.url }}" itemprop="url">{{ grantsandfellowships.grantsandfellowships }}</a>{% else %}{{ grantsandfellowships.grantsandfellowships }}{% endif %}</h3>
+          <p class="resume-item-copy">{{ grantsandfellowships.journal }}  &bull; {{ grantsandfellowships.date }}</p>
         </div>
         {% endfor %}
 

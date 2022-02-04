@@ -1,17 +1,17 @@
 # Degree
 
-- degree: PhD. Mechanical Engineering
+- degree: Ph.D. Mechanical Engineering
   uni: Western University 
   year: 2020 &mdash; present
   # award: Biggest 
-  summary: "PhD thesis: A Computational Framework for In-Silico Clinical Trials of Upper Limb Arthroplasties"
+  summary: "Ph.D. Dissertation:  Development of Novel Approaches in the Assessment of the Fixation and Load Transfer in Reverse Shoulder Arthroplasty"
 
-
-- degree: BESc. Mechanical and Materials Engineering
+- degree: B.E.Sc. Mechanical and Materials Engineering
   uni: Western University
-  year: 2016 &mdash; 2020
+  year: 2015 &mdash; 2020
   awards:
-    - award: 2020 Dean's List
-    - award: 2020 Academic All-Canadian
-  summary: "Undergrad Thesis: In Vitro Wear of Vitamin-E Cross Linked Polyethylene"
+    - award: 2020 Dean's Honour List
+    - award: 2018 Dean's Honour List
+    - award: 2016 Dean's Honour List
+  summary: "Undergraduate Thesis: Effectiveness of Analogue Bone Materials in Glenoid Baseplate Fixation Studies"
 
