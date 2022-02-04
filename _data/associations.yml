@@ -1,14 +1,20 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Western University Track and Field Team
-  role: 60m Hurdler
-  year: 2017 &mdash; present
-  url: https://westernmustangs.ca/sports/track-and-field/roster/gregory-spangenberg/31413
-  summary: Ran fast over obstacles.
+- organization: Royal Conservatory of Music
+  role: Classical Violinist
+  year: 2004 &mdash; present
+  #url: https://www.canadianphysiquealliance.com/
+  summary: Grade 10 RCM.
 
-# - organization: Yale Amnesty International
-#   role: Communications coordinator
-#   year: 2002 &mdash; 2004
-#   url: http://campuspress.yale.edu/amnesty/
-#   summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: CPA Bodybuilding
+  role: Canadian Physique Alliance Bodybuilding
+  year: 2015 &mdash; present
+  #url: https://www.canadianphysiquealliance.com/
+  summary: Men’s Classic Physique category.
+
+- organization: Engineering Simplicity - Youtube Channel
+  role: Content Creator
+  year: 2020 &mdash; present
+  url: https://www.youtube.com/channel/UCOWjSAeZh4O04_NHqaR_HBQ
+  summary: Tutorials on the use of clinical research tools.
