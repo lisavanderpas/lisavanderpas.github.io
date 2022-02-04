@@ -130,7 +130,7 @@
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-details" itemprop="name">{% if publication.url %}<a href="{{ grantsandfellowships.url }}" itemprop="url">{{ grantsandfellowships.grantsandfellowships }}</a>{% else %}{{ grantsandfellowships.grantsandfellowships }}{% endif %}</h3>
-          <p class="resume-item-copy">{{ grantsandfellowships.journal }}  &bull; {{ grantsandfellowships.date }}</p>
+          <p class="resume-item-copy">{{ grantsandfellowships.awarder }}  &bull; {{ grantsandfellowships.date }}</p>
         </div>
         {% endfor %}
 
