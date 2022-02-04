@@ -1,6 +1,6 @@
 # Site settings
 title: "David Cunningham"
-description: "A resume about Greg"
+description: "CV - David Cunningham"
 
 # Build settings
 markdown: kramdown
@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "David Cunningham"
-resume_title:                   "Data Scientist and PhD Student"
+resume_title:                   "Data Scientist and PhD Candidate"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "gspangen@westerneng.ca"
+resume_contact_email:           "dcunni9@uwo.ca"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+1 519-476-0307"
+resume_contact_telephone:       "+1 226-235-4860"
 resume_contact_address:         ""
 
-resume_header_contact_info:     "London, Ontario, Canada • gspangen@westerneng.ca"
+resume_header_contact_info:     "London, Ontario, Canada • dcunni9@uwo.ca"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Self-motivated researcher with valuable experience leading corporate backed research studies coupled with a strong skillset in data analytics, coding, and algorithm design.<br>Current research is focused on leveraging those skills to solve issues with the design of upper limb orthopedic implants. Interested in applying that skillset to problems that exists in other clinical areas.</p>"
+resume_header_intro: "<p>Current PhD researcher in mechanical and materials engineering with valuable experience leading industry-backed research studies coupled with a strong skillset in data analytics, coding, and algorithm design.<br>Current research is focused on enhancing the development and testing of novel orthopaedic upper-limb prosthetics. Interested in applying those skillsets to complex continuous-improvement problems present in other clinical environments.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -46,12 +46,12 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/gregspangenberg"
+  resume_github_url:            "https://github.com/dcunni9"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/gregory-spangenberg-6b8645152/"
-  # resume_instagram_url:         "https://www.instagram.com/gregspangenberg/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/david-cunningham-a79897ba/"
+  resume_instagram_url:         "https://www.instagram.com/decunningham.build/"
   # resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
   resume_pdf_url:                 "images/cv.pdf"
