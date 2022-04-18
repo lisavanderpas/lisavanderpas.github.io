@@ -5,7 +5,7 @@
 
 - skill: Data Modeling / Statistical Analysis
   rating: 5
-  libraries: Pandas  • NumPy • SciPy • Excel
+  libraries: Pandas • VAEX • NumPy • SciPy • Excel
 
 - skill: Data Visualization 
   rating: 5
