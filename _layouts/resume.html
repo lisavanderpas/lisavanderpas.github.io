@@ -138,19 +138,19 @@
       <!-- end grantsandfellowships -->
       {% endif %}
 
-      {% if site.abstracts %}
+      {% if site.resume_section_abstracts %}
       <!-- begin abstracts -->
       <section class="content-section">
         <header class="section-header">
           <h2>abstracts</h2>
         </header>
 
-        {% for abstract in site.data.abstracts %}
+        {% for abstracts in site.data.abstracts %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if abstract.url %}<a href="{{ abstract.url }}" itemprop="url">{{ abstract.abstract }}</a>{% else %}{{ abstract.abstract }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ abstract.role }}  &bull; {{ abstract.duration }}</h4>
-          <p class="resume-item-copy">{{ abstract.description }}</p>
+          <h3 class="resume-item-title" itemprop="name">{% if abstracts.url %}<a href="{{ abstracts.url }}" itemprop="url">{{ abstracts.abstracts }}</a>{% else %}{{ abstracts.abstracts }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ abstracts.role }}  &bull; {{ abstracts.duration }}</h4>
+          <p class="resume-item-copy">{{ abstracts.description }}</p>
         </div>
         {% endfor %}
 
