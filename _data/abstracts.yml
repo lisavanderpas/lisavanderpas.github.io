@@ -1,15 +1,15 @@
-# Projects
+# Abstracts
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Evaluating the Effect of Varying Force Profiles on the Stress Analyses of Shoulder Humeral Implants 
+- abstract: Evaluating the Effect of Varying Force Profiles on the Stress Analyses of Shoulder Humeral Implants 
   role: Presenting Author
   duration: 2022 &mdash; 2022
    url: "https://dcunni9.github.io/CORS_ForceProfile2022/"
   #description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
 # Springfield Community Outreach Group
-- project: Evaluating the Efficacy of Measuring Implant-bone Fixation Methods in the Evaluation of Orthopaedic Implants
+- abstract: Evaluating the Efficacy of Measuring Implant-bone Fixation Methods in the Evaluation of Orthopaedic Implants
   role: Presenting Author
   duration: 2022 &mdash; 2022
    url: "https://dcunni9.github.io/CORS_Micromotion2022/"
