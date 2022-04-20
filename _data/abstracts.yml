@@ -2,14 +2,14 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # CORS Abstract: Effect of Force Profiles
-- abstract: Evaluating the Effect of Varying Force Profiles on the Stress Analyses of Shoulder Humeral Implants 
+- abstracts: Evaluating the Effect of Varying Force Profiles on the Stress Analyses of Shoulder Humeral Implants 
   role: Presenting Author
   duration: 2022 
   url: "https://dcunni9.github.io/CORS_ForceProfile2022/"
   description: This abstract was presented at the 2022 Canadian Orthopaedic Rsearch Association conferance. Please note that a computer may be required to see the interactive plots.
 
 # CORS Abstract: Micromotion using Digital Methods
-- abstract: Evaluating the Efficacy of Measuring Implant-bone Fixation Methods in the Evaluation of Orthopaedic Implants
+- abstracts: Evaluating the Efficacy of Measuring Implant-bone Fixation Methods in the Evaluation of Orthopaedic Implants
   role: Presenting Author
   duration: 2022 
   url: "https://dcunni9.github.io/CORS_Micromotion2022/"
