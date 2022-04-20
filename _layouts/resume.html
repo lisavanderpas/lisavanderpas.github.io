@@ -145,12 +145,12 @@
           <h2>Abstracts</h2>
         </header>
 
-        {% for project in site.data.Abstracts %}
+        {% for abstract in site.data.Abstracts %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
-          <p class="resume-item-copy">{{ project.description }}</p>
+          <h3 class="resume-item-title" itemprop="name">{% if abstract.url %}<a href="{{ abstract.url }}" itemprop="url">{{ abstract.abstract }}</a>{% else %}{{ abstract.abstract }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ abstract.role }}  &bull; {{ abstract.duration }}</h4>
+          <p class="resume-item-copy">{{ abstract.description }}</p>
         </div>
         {% endfor %}
 
