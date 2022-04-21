@@ -148,7 +148,7 @@
         {% for abstracts in site.data.abstracts %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if abstracts.url %}<a href="{{ abstracts.url }}" itemprop="url">{{ abstracts.abstracts }}</a>{% else %}{{ abstracts.abstracts }}{% endif %}</h3>
+          <h4 class="resume-item-title" itemprop="name">{% if abstracts.url %}<a href="{{ abstracts.url }}" itemprop="url">{{ abstracts.abstracts }}</a>{% else %}{{ abstracts.abstracts }}{% endif %}</h4>
           <h4 class="resume-item-details" itemprop="description">{{ abstracts.role }}  &bull; {{ abstracts.duration }}</h4>
           <p class="resume-item-copy">{{ abstracts.description }}</p>
         </div>
