@@ -14,3 +14,10 @@
   duration: 2022 
   url: "https://dcunni9.github.io/CORS_Micromotion2022/"
   description: This abstract was presented at the 2022 Canadian Orthopaedic Rsearch Association conferance. Please note that a computer may be required to see the interactive plots.
+
+  # CORS Abstract: Micromotion using Digital Methods
+- abstracts: General Data Presentation Examples, Misc Presentations
+  #role: Presenting Author
+  #duration: 2022 
+  url: "https://dcunni9.github.io/DataWebSharing/"
+  description: These figures are examples of different kinds of interactive plots that I have used during a variety of presentations.
