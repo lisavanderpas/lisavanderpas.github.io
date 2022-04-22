@@ -17,7 +17,7 @@
 
   # CORS Abstract: Micromotion using Digital Methods
 - abstracts: General Data Presentation Examples, Misc Presentations
-  #role: Presenting Author
-  #duration: 2022 
+  role: Creator
+  duration: Present 
   url: "https://dcunni9.github.io/DataWebSharing/"
   description: These figures are examples of different kinds of interactive plots that I have used during a variety of presentations.
