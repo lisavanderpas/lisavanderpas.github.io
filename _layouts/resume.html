@@ -240,7 +240,7 @@
           <h2>Other Awards</h2>
         </header>
 
-        {% for recognition in site.data.recognitions %}
+        {% for otherawards in site.data.otherawards %}
         <div class="resume-item">
           <h3 class="resume-item-title" itemprop="award">{% if otherawards.url %}<a href="{{ otherawards.url }}">{{ otherawards.award }}</a>{% else %}{{ otherawards.award }}{% endif %}</h3>
           <h4 class="resume-item-details">{{ otherawards.organization }} &bull; {{ otherawards.year }}</h4>
