@@ -232,6 +232,26 @@
       <!-- end Recognition -->
       {% endif %}
 
+      {% if site.resume_section_otherawards %}
+      <!-- begin otherawards -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Other Awards</h2>
+        </header>
+
+        {% for recognition in site.data.recognitions %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award">{% if otherawards.url %}<a href="{{ otherawards.url }}">{{ otherawards.award }}</a>{% else %}{{ otherawards.award }}{% endif %}</h3>
+          <h4 class="resume-item-details">{{ otherawards.organization }} &bull; {{ otherawards.year }}</h4>
+          <p class="resume-item-copy">{{ otherawards.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end otherawards -->
+      {% endif %}
+
       {% if site.resume_section_associations %}
       <!-- begin Associations -->
       <section class="content-section">
