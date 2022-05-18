@@ -22,6 +22,13 @@
   url: "https://dcunni9.github.io/FEAEvaluationofStepSize/"
   description: This project was completed for the course MME9655 - Impact Biomechanics; in partial fulfilment of the requirements for the degree of Doctor of Philosophy at the Unviersity of Western Ontario.
 
+  # LHRD Abstract: Development of a 3D Loading Apparatus 
+- abstracts: Development of an Automated Test Bed to Assess the Performance of Shoulder Implants
+  role: Presenting Author
+  duration: 2022 
+  url: "https://dcunni9.github.io/LHRD_LoadingApparatus/"
+  description: This abstract was presented at the 2022 Lawson Health Research Day conferance. These plots are adapted for viewing on a phone.
+
   # CORS Abstract: Micromotion using Digital Methods
 - abstracts: General Data Presentation Examples, Misc Presentations
   role: Creator
