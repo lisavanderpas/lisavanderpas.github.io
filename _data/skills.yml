@@ -1,11 +1,8 @@
 # Skills
 
-- skill: Python
+- skill: Mental Health
   rating: 5
-
-- skill: Data Modeling / Statistical Analysis
-  rating: 5
-  libraries: Pandas • VAEX • NumPy • SciPy • Excel • SQL
+  libraries: Mental Health First-Aid • CPI
 
 - skill: Data Visualization 
   rating: 5
