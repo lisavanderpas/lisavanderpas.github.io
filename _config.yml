@@ -1,6 +1,6 @@
 # Site settings
-title: "David Cunningham"
-description: "CV - David Cunningham"
+title: "Lisa Vanderpas"
+description: "CV - Lisa Vanderpas"
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "David Cunningham"
-resume_title:                   "Data Scientist and PhD Candidate"
+resume_name:                    "Lisa Vanderpas, B.A."
+resume_title:                   "Honours Double Major - M. Psychology m. Phylosophy"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "dcunni9@uwo.ca"
+resume_contact_email:           "lisa_vander@hotmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+1 226-235-4860"
+resume_contact_telephone:       "+1 226-927-5824"
 resume_contact_address:         ""
 
-resume_header_contact_info:     "London, Ontario, Canada • dcunni9@uwo.ca"
+resume_header_contact_info:     "London, Ontario, Canada • lisa_vander@hotmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a PhD candidate and researcher in mechanical and materials engineering with valuable experience leading industry-backed research studies coupled with a strong skillset in data analytics, coding, and algorithm design.<br>My current research is focused on enhancing the development and testing of novel orthopaedic upper-limb prosthetics. I am interested in applying those skillsets to complex continuous-improvement problems present in other clinical environments.</p>"
+resume_header_intro: "<p>I am an Informed Response Outreach Worker with valuable experience in crisis management, de-escalation, and systems management in the social work field.<br>My current work is focused on supporting vulnerable indidviduals in the community and connecting those persons to medical and social resources.<br>I am interested in applying those skillsets to complex social and mental-health/addiction barriers present in other clinical environments.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,11 +35,11 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_publications:    true
-resume_section_grantsandfellowships:  true
-resume_section_abstracts:       true
+# resume_section_publications:    true
+# resume_section_grantsandfellowships:  true
+# resume_section_abstracts:       true
 resume_section_skills:          true
-resume_section_recognition:     true
+#resume_section_recognition:     true
 resume_section_otherawards:     true
 #resume_section_links:           true
 resume_section_associations:    true
@@ -48,12 +48,12 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/dcunni9"
+  resume_github_url:            "https://github.com/lisavanderpas"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/david-cunningham-a79897ba/"
-  resume_instagram_url:         "https://www.instagram.com/decunningham.build/"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/david-cunningham-a79897ba/"
+  # resume_instagram_url:         "https://www.instagram.com/decunningham.build/"
   # resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
   resume_pdf_url:                 "images/cv.pdf"
