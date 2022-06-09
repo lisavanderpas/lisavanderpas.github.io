@@ -1,29 +1,30 @@
 # Skills
 
-- skill: Mental Health
+- skill: Interersonal skills for Mental Health Management
   rating: 5
-  libraries: Mental Health First-Aid • CPI
+  libraries: Mental Health First-Aid • CPI 
 
-- skill: Data Visualization 
+- skill: Crisis Intervension / De-escilation 
   rating: 5
-  libraries: Plotly • Dash • Matplotlib
+  libraries:  •  • 
 
-- skill: FEA and CAD Modelling
+- skill: Conflict Resolution
   rating: 4
-  libraries: Abaqus CAE • Solidworks CAD and FEA (CSWA-S) • MicroStation v7 and v8 • PVElite • CAESAR II
+  libraries: ••  •  • 
 
-- skill: Manufacturing Software
+- skill: Organizational Leadership and Managment 
   rating: 4
-  libraries: SAP Business and Inventory • SmartPlant Foundation • LabVIEW • MatLAB • AMS Machinery Health • SharePoint
+  libraries: Motivation and adaptability • organizational leadership• WHMIS Standards• critical path method• • 
 
-- skill: Manufacturing Tools/Standards
+- skill: Analytic skills
   rating: 4
-  libraries: ASTM • ASME B31.3 • OSHA • CSA • API • WHMIS Standards • 6-Sigma • Kaizen • Critical Path Method • DFM • DFAAnalysis
+  libraries:  • collect information• problem solve • cost/benefit analysis  • observing • interpreting   • •  •    •  • 
 
-- skill: MatLAB
+- skill: Inter-personal and communication skills
   rating: 4
+  libraries: Liaising and Networking
 
-- skill: Web/Application Development 
+- skill: Stress Managment 
   rating: 3
   libraries: html • Tkitner • ruby
 
