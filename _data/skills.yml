@@ -2,32 +2,29 @@
 
 - skill: Interersonal skills for Mental Health Management
   rating: 5
-  libraries: Mental Health First-Aid • CPI 
-  libraries: Demonstrated through proficient verbal and non-verbal communication skills. Proficient at adjusting strategies to respond appropriately to individuals to ensure they feel heard, maintaining patience, and actively listening
-
-- skill: Crisis Intervension / De-escilation 
+  libraries: Mental Health First-Aid • CPI certificate
+  libraries: Proficient verbal and non-verbal communication skills •  adjusting strategies to respond appropriately 
+  
+- skill: Crisis Intervension / Conflict resolution
   rating: 5
-  libraries:  •  • 
-
-- skill: Conflict Resolution
-  rating: 4
-  libraries: ••  •  • 
+  libraries:  CPI certificate
+  libraries: Adept at making an adjitated individual feel heard, understood and respected to defuse a situation. 
 
 - skill: Organizational Leadership and Managment 
-  rating: 4
-  libraries: Motivation and adaptability • organizational leadership• WHMIS Standards• critical path method• • 
+  rating: 5
+  libraries: Motivation and adaptability • organizational leadership• critical path method (CPM) 
 
 - skill: Analytic skills
   rating: 4
-  libraries:  • collect information• problem solve • cost/benefit analysis  • observing • interpreting   • •  •    •  • 
-
-- skill: Inter-personal and communication skills
-  rating: 4
-  libraries: Liaising and Networking
+  libraries: collect information• problem solve • cost/benefit analysis 
 
 - skill: Stress Managment 
-  rating: 3
-  libraries: html • Tkitner • ruby
+  rating: 5
+  libraries: Reading warning signs of stress, providing coping skills and prevention
+  
+- skill: Clinical care
+  Rating: 4
+  libraries: Palitive care 101 • 
 
 - skill: English
   rating: 5
