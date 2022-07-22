@@ -1,70 +1,65 @@
 # Jobs
 
-- #company: Roth McFarlane Hand and Upper Limb Centre, St. Joseph's Health Care London
+- #company: London Cares homesless Responce
   logo: hulc.png
-  link: https://www.sjhc.london.on.ca/areas-of-care/roth-mcfarlane-hand-and-upper-limb-centre-hulc
-  position: Research Engineer (EIT)
-  duration:  May. 2020 &mdash; Present
-  summary: Responsible for supervising and assisting with orthopaedics prosthetic research<ul class="resume-item-list"><li>Developed custom experimental loading software for actuation of pneumatic systems in the laboratory. </li><li>Procured high-resolution machine vision cameras, and implemented digital tracking software for micromotion analysis of implants in-vitro.</li><li>Developed experimental testing protocols for the evaluation of Wright Medical's new implant designs. </li><li> Performed Finite Element evaluations on novel prosthetic designs. </li><li> Developed automatic loading planning software for anatomically-relevant joint loading experimental simulation. </li></ul>
+  link: https://londoncares.ca/
+  position: Informed Responce Outreach Worker
+  duration:  November. 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Connect with individuals experiencing homelessness and work as a resource by providing housing, support, advocacy, system navigation, community information and crisis de-escalation.</li><li>Supervise the well-being of individuals and engage other services as necessary.</li><li>Responding to crisis situations and applying emergency first aid & overdose response.</li><li>Work to coordinate completion of paper readiness and appropriate housing applications as well as daily referrals and intake.</li><li>Use intervention and mediation skills to defuse conflicts if they can be resolved amongst the individuals.</li><li>Create a welcoming environment by engaging and establishing rapport with individuals.</li><li>Maintain strong communication and collaboration practices with your shift partner, the outreach team, and community partners.</li><li>Daily input into databases and completion of incident reports as necessary.</li></ul>
   # keywords:
-  #   - Python
-  #   - pandas
-  #   - numpy 
-  #   - plotly
-  #   - scikit-learn
-  #   - scipy
-  #   - MATLAB
+  #   - Crisis intervention
+  #   - Emergency Responce
+  #   - Community resource
+  #   - De-escilation and intervention
 
-- #company: Ricky Ratchets
-  logo: rickyratchets.png
-  link: https://rickyratchets.com/
-  position: Mechanical Repair Assistant
-  duration:  June. 2020  &mdash; Present
-  summary: <ul class="resume-item-list"><li>Welding and fabrication of automotive and shop floor parts. </li><li> Repair, replacement, and procurement of automotive parts and assemblies.  </li><li>Design and fabrication of custom snowplow and motor mounting arrangements. </li><li>Modification to existing vehicle designs. </li><li> Vehicle repair and inspection under the supervision of licenced automotive technicians</li></ul>
+- #company: Men's Mission
+  logo: MM.png
+  link: https://missionservices.ca/help/mensmission/
+  position: Senior Residential Care Worker Supervisor
+  duration:  March. 2020  &mdash; Present
+  summary: <ul class="resume-item-list"><li>Conducting crisis counselling/intervention support in keeping with professional standards.</li><li>Monitoring and supporting clients through conflict resolution and crisis intervention strategies.</li><li>Provide system navigation and housing paperwork, as well as wellness check and emergency first aid as necessary.</li><li>Ensuring that intake staff is accurately completing required documentation in a timely manner.</li><li>Assist Program manager in monitoring staff performance, ensuring compliance to MSL's Mission Values and engage in ongoing coaching.</li><li>Developing and supporting a positive team oriented work environment.</li><li>Assist in the hiring, orientation and training of new staff, volunteers and student placements.</li><li>Producing ongoing work schedules for rotating shifts, which provide staffing for the Men's Mission on a 24-hour basis.</li><li>Inputting data into databases to ensure accurate record keeping pertaining to clients.</li><li>Responsible for completing room checks and cleaning; disposing of items in a safe manner.</li></ul>
   # keywords:
-  #   -MATLAB
+  #   - supervisor
 
-- #company: Western University
-  logo: western_eng.png
-  link: https://www.eng.uwo.ca/
-  position: Teaching Assistant
-  duration:  Sept. 2020  &mdash; Present
-  summary: <ul class="resume-item-list"><li>Biomechanics of the MSK System - MME 4469B , an advanced course on the evaluation of biomechanical osseous and soft tissue mechanics.</li><li>Mechanical Components Design - MME 3380B , a mid-level course on the engineering analysis of mechanical components. </li><li>Product Design and Development - MME 2259A, an introductory course on SolidWorks modelling and best-practice engineering design. </li><li> Finite Element Methods - MME 9612L, a graduate introductory course on Finite Element Analysis methods and practical application of same. </li><li> Engineering Experimentation - MME 2285B, a mid-level course on experimental planning and design. </li><li> Industrial Materials - MME 2260A, a mid-level course on industrial material manufacturing processes. </li></ul>
+- #company: Cowboys Ranch
+  logo: cowboys.png
+  link: https://www.cowboysranch.ca/
+  position: Bar Manager
+  duration:  Aug. 2017  &mdash; Present
+  summary: <ul class="resume-item-list"><li>Managed multiple teams including supervisors, bartenders, servers, security and barbacks.</li><li>Responsible for ensuring daily inventory and nightly paperwork are completed.</li><li>Diffuse escalated situations in a calm manor, making accommodations to ensure the satisfaction of staff and customers.</li><li>Responsible for completing rotating scheduling as well as booking and advertising events.</li><li>Able to work independently and as a team, making important calls in stressful situations.</li><li>Multitasked bartending and managing during shifts, being able to work fast and effectively under pressure.</li></ul>
   # keywords:
-  #   -Teaching
-  #   -Evaluation
-  #   -GraderWorks
-  #   -SolidWorks
-  #   -CSWA-P
-  #   -CSWA-S
-  #   -CSWA
+  #   - Supervisor
 
-- #company: NOVA Chemicals
-  logo: NOVA.jpg
-  link: https://www.novachem.com/
-  position: Mechanical Reliability Engineering EIT
-  duration:  Janurary. 2019  &mdash; Aug. 2019
-  summary: <ul class="resume-item-list"><li>Implementation and design of condition monitoring plans for NOVA manufacturing east facilities. </li><li>Vibration analysis and preventative maintenance plan response using AMS Machinery Health.</li><li>Research, project planning, and implementation of Emerson Triaxial Accelerometer technology into NOVA condition monitoring program.</li><li>Structural auditing, level of safety design, and modification of existing high-pressure rotating equipment.</li><li>Gas testing, radiation testing, troubleshooting and repair of rotating equipment as per OSHA, API, and NOVA standards. </li></ul>
+- #company: McCabes Irish Pub
+  logo: MCL.png
+  link: https://www.mccabeslondon.com/
+  position: Pub Supervisor
+  duration:  Aug. 2017  &mdash; Nov. 2021
+  summary: <ul class="resume-item-list"><li>Managed a team of security, kitchen, servers and bartenders, ensuring the completion of daily tasks and responsibilities while maintaining professional standards.</li><li>Completing paperwork and inventory each night.</li><li>Responsible for training new employees to our standards while providing a comfortable and safe environment.</li><li>Multitasked roles as a manager, server/or bartender per shift.</li><li>Learned to solve problems internally and externally with employees and guests.</li><li>Ability to learn quickly and manage multiple tasks.</li></ul>
   # keywords:
-  #   -Petrochemical engineering
+  #   -supervisor
 
-- #company: NOVA Chemicals
-  logo: NOVA.jpg
-  link: https://www.novachem.com/
-  position: Polyethylene Engineering and Capital EIT
-  duration:  May. 2018  &mdash; January. 2019
-  summary: <ul class="resume-item-list"><li>Design of pressure vessels, high pressure piping, and associated components as per ASME B31.3 and ASME Sec. VIII Div. 1 standards.</li><li>Engineering design and documentation using MicroStation V7, V8, and pressure vessel design and piping stress analysis and design using CAEPIPE, CAESAR II, and PVElite. </li><li>Research, budget, and design implementation of various high pressure devices including heat exchangers, tubesheet filters, pulsation dampeners and other safety-critical equipment. </li><li>Equipment specification and stocking requirements using SAP. Performed low temperature embrittlement assessments and issued construction work packages for capital andmajor maintenance projects. </li></ul>
+- #company: Merry Mount
+  logo: MERRYMOUNT.png
+  link: https://www.merrymount.on.ca/
+  position: Volunteer Social Worker
+  duration:  Sept. 2014  &mdash; Sept. 2015
+  summary: <ul class="resume-item-list"><li>Supervised children undergoing hardships at home with families in need.</li><li>Experience managing children who have behavioral issues. </li><li>opportunity to work with social workers and assist in their daily routines.</li></ul>
   # keywords:
-  #   -Petrochemical engineering
+  #   -Shadowed Social Workers
 
-- #company: Schneider Electric
-  logo: schneider.jpg
-  link: https://www.se.com/ca/en/
-  position: Manufacturing Engineering Systems Designer & Line/Inventory Specialist
-  duration:  Janurary. 2019  &mdash; Aug. 2019
-  summary: <ul class="resume-item-list"><li>Worked closely with department leadership to identify barriers in the pilot meter program.</li><li>Developed pilot unit scheduling software for the continuous improvement of the pilot meter program.  </li><li>Reviewed operating procedures throughout the 6-Sigma plant, presenting potential improvements to engineering groups in accordance with Six-Sigma best practice approaches. </li><liOperated high-potential (3300V+) testing machinery (LabView) for quality control and data analysis.</li><li>Adhered to 5S, KanBan, One Piece Flow, Poka-yoke and Jidoka best practices during assembly and testing of high-accuracy electrical monitoring equipment. </li><li>Operated conformal coating machinery for the heat-treating of environmentally-sensitive circuitry. </li></ul>
+- #company: City of London
+  logo: CITYLONDON.png
+  link: https://london.ca/daycamps
+  position: Recreational Camp Leader
+  duration:  June. 2013  &mdash; Sept. 2015
+  summary: <ul class="resume-item-list"><li>Provided care for children ages 6-12 years old.</li><li>Provided care for children with special needs and experiencing hardships at home and/or school.</li><li>Responsible for planning daily activities, and trips; demonstrating time management and multi-tasking skills.</li><li>Inspired a creative approach to problem solving, and to remain optimistic through hardships.</li></ul>
   # keywords:
-  #   -Electrical engineering
-  #   -Six Sigma
-  #   -Assembly Line
-  #   -Power monitoring 
+
+  - #company: Goodlife Fitness
+  logo: goodlife.png
+  link: https://www.goodlifefitness.com/home.html
+  position: Child Care Centre JUMP
+  duration:  Jul. 2014  &mdash; June. 2016
+  summary: <ul class="resume-item-list"><li>•	Work in the JUMP room/ Front Desk.</li><li>Worked with children from 6 weeks to 11 years of age.</li><li>Worked alone in this role, learning to make quick decisions under pressure.</li><li>Maintained creativity with my spare time, keeping everyone occupied with fun activities.</li><li>Adequately attend to the needs of others to ensure a calm and safe atmosphere.</li></ul>
+  # keywords:
