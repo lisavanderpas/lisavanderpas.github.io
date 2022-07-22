@@ -1,7 +1,7 @@
 # Jobs
 
 - #company: London Cares homesless Responce
-  logo: hulc.png
+  logo: londoncares.png
   link: https://londoncares.ca/
   position: Informed Responce Outreach Worker
   duration:  November. 2021 &mdash; Present
@@ -55,7 +55,7 @@
   duration:  June. 2013  &mdash; Sept. 2015
   summary: <ul class="resume-item-list"><li>Provided care for children ages 6-12 years old.</li><li>Provided care for children with special needs and experiencing hardships at home and/or school.</li><li>Responsible for planning daily activities, and trips; demonstrating time management and multi-tasking skills.</li><li>Inspired a creative approach to problem solving, and to remain optimistic through hardships.</li></ul>
   # keywords:
-
+ 
 - #company: Goodlife Fitness
   logo: goodlife.png
   link: https://www.goodlifefitness.com/home.html
@@ -65,4 +65,8 @@
   # keywords:
 
 - #company: The AGENCY
-  logo: 
+  logo: theagency.png
+  link: http://www.theagencymodels.ca/
+  position: Model
+  Duration: July. 2017  &mdash; Present
+  summary: 
