@@ -1,0 +1,23 @@
+# Certifications
+# uncomment the urls if you wish to display them, and add your own URL
+# make sure to use dois for the url
+
+- certifications: General
+  awarder: G License, M License, Smart Serve, PADI Open Water, BoatSmart, WhiteSail
+  date: No Expiry 
+  #url: "https://doi.org/10.1002/jor.25239"
+
+- certifications: Education
+  awarder: Responding to Disclosures of Sexual Violence on Campus (Extended), Supporting Disclosures of GBSV, AODA - Accessibility in Teaching, Teaching and Mental Health, Western Safe Campus Community
+  date: No Expiry 
+  #url: "https://doi.org/10.1002/jor.25239"
+
+- certifications: Laboratory
+  awarder: Biosafety, Laboratory Safety and Hazardous Waste Management, Worker Health and Safety
+  date: No Expiry 
+  #url: "https://doi.org/10.1002/jor.25239"
+
+- certifications: WHIMIS
+  #awarder: Western University
+  date: Expires Jan 2023
+  #url: "https://doi.org/10.1002/jor.25239"
