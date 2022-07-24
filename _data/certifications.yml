@@ -2,22 +2,42 @@
 # uncomment the urls if you wish to display them, and add your own URL
 # make sure to use dois for the url
 
-- certifications: General
-  awarder: G License, M License, Smart Serve, PADI Open Water, BoatSmart, WhiteSail
-  date: No Expiry 
+- certifications: Trauma Training
+  awarder: 
+  date: Obtained 2022 
   #url: "https://doi.org/10.1002/jor.25239"
 
-- certifications: Education
-  awarder: Responding to Disclosures of Sexual Violence on Campus (Extended), Supporting Disclosures of GBSV, AODA - Accessibility in Teaching, Teaching and Mental Health, Western Safe Campus Community
-  date: No Expiry 
+- certifications: Mental health and first aid certified
+  #awarder: Responding to Disclosures of Sexual Violence on Campus (Extended), Supporting Disclosures of GBSV, AODA - Accessibility in Teaching, Teaching and Mental Health, Western Safe Campus Community
+  date: Obtained 2021 
   #url: "https://doi.org/10.1002/jor.25239"
 
-- certifications: Laboratory
-  awarder: Biosafety, Laboratory Safety and Hazardous Waste Management, Worker Health and Safety
-  date: No Expiry 
+- certifications: Palliative Care 101- amplified health 
+  #awarder: Biosafety, Laboratory Safety and Hazardous Waste Management, Worker Health and Safety
+  date: Obtained 2021
   #url: "https://doi.org/10.1002/jor.25239"
 
-- certifications: WHIMIS
+- certifications: HIFIS Specialist
   #awarder: Western University
-  date: Expires Jan 2023
+  date: Obtained 2021
+  #url: "https://doi.org/10.1002/jor.25239"
+
+  - certifications: CPI Training
+  #awarder: Western University
+  date: Obtained 2022 -Expires
+  #url: "https://doi.org/10.1002/jor.25239"
+
+  - certifications: CPR & First Aid
+  #awarder: Western University
+  date: Obtained 2020 -Expires
+  #url: "https://doi.org/10.1002/jor.25239"
+
+  - certifications: ASL (level 1)
+  #awarder: Western University
+  date: Obtained 2022
+  #url: "https://doi.org/10.1002/jor.25239"
+
+  - certifications: ASL (level 2)
+  #awarder: Western University
+  date: Obtained 2022
   #url: "https://doi.org/10.1002/jor.25239"
