@@ -138,6 +138,26 @@
       <!-- end grantsandfellowships -->
       {% endif %}
 
+
+      {% if site.resume_section_certifications %}
+      <!-- begin certifications -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Certifications</h2>
+        </header>
+
+        {% for certifications in site.data.certifications %}
+        <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
+          <h3 class="resume-item-details" itemprop="name">{% if certifications.url %}<a href="{{ certifications.url }}" itemprop="url">{{ certifications.certifications }}</a>{% else %}{{ certifications.certifications }}{% endif %}</h3>
+          <p class="resume-item-copy">{{ certifications.awarder }}  &bull; {{ certifications.date }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end grantsandfellowships -->
+      {% endif %}
+
       {% if site.resume_section_abstracts %}
       <!-- begin abstracts -->
       <section class="content-section">
