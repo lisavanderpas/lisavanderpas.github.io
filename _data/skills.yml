@@ -23,12 +23,12 @@
   libraries: Reading warning signs of stress, providing coping skills and prevention • Trauma Training
   
 - skill: Clinical care
-  Rating: 4
+  rating: 4
   libraries: Palitive care 101 
 
 - skill: ASL
-  Rating: 2 
-  Libraries: ASL Certifination IAO • ASL Certification IAO level 2
+  rating: 2
+  libraries: ASL Certifination IAO • ASL Certification IAO level 2
 
 - skill: English
   rating: 5
