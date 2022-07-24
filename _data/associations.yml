@@ -1,11 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Royal Conservatory of Music
-  role: Classical Violinist
-  year: 2004 &mdash; Present
+- organization: O.N.E Dance
+  role: Contemporary Dance
+  year: 2019 &mdash; Present
   #url: https://www.canadianphysiquealliance.com/
-  summary: Grade 10 RCM.
+  #summary: 
 
 - organization: CPA Bodybuilding
   role: Canadian Physique Alliance Bodybuilding
