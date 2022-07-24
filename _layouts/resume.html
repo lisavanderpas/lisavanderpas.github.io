@@ -119,23 +119,23 @@
       <!-- end Publications -->
       {% endif %}
 
-      {% if site.resume_section_grantsandfellowships %}
-      <!-- begin grantsandfellowships -->
+      {% if site.resume_section_grants %}
+      <!-- begin grants -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Grants and Fellowships</h2>
+          <h2>Grants</h2>
         </header>
 
-        {% for grantsandfellowships in site.data.grantsandfellowships %}
+        {% for grants in site.data.grants %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-details" itemprop="name">{% if grantsandfellowships.url %}<a href="{{ grantsandfellowships.url }}" itemprop="url">{{ grantsandfellowships.grantsandfellowships }}</a>{% else %}{{ grantsandfellowships.grantsandfellowships }}{% endif %}</h3>
-          <p class="resume-item-copy">{{ grantsandfellowships.awarder }}  &bull; {{ grantsandfellowships.date }}</p>
+          <h3 class="resume-item-details" itemprop="name">{% if grants.url %}<a href="{{ grants.url }}" itemprop="url">{{ grants.grants }}</a>{% else %}{{ grants.grants }}{% endif %}</h3>
+          <p class="resume-item-copy">{{ grants.awarder }}  &bull; {{ grants.date }}</p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end grantsandfellowships -->
+      <!-- end grant -->
       {% endif %}
 
 
