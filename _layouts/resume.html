@@ -152,7 +152,6 @@
           <h3 class="resume-item-details" itemprop="name">{% if certifications.url %}<a href="{{ certifications.url }}" itemprop="url">{{ certifications.certifications }}</a>{% else %}{{ certifications.certifications }}{% endif %}</h3>
           <p class="resume-item-copy">{{ certifications.awarder }}  &bull; {{ certifications.date }}</p>
             <a href="{{certifications.link}}"><img class="resume-item-logo" src="/images/{{certifications.logo}}"></img>  </a> 
-              <hide certifications.logo="#"></hide>
         </div>
         {% endfor %}
 
