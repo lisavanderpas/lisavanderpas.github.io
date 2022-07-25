@@ -2,12 +2,12 @@
 # uncomment the urls if you wish to display them, and add your own URL
 # make sure to use dois for the url
 
-- grantsandfellowships: King's University College Entrance Scholarship 
+- grants: King's University College Entrance Scholarship 
   awarder: Kings University
   date: May 2014
-  #url: "https://doi.org/10.1002/jor.25239"
+    #url: "https://doi.org/10.1002/jor.25239"
 
-- grantsandfellowships: Honours Specialist High Skills Major Entrance Award
+- grants: Honours Specialist High Skills Major Entrance Award
   awarder: Kings University
   date: May 2014
   #url: "https://doi.org/10.1002/jor.25239"
