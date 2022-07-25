@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Lisa Vanderpas, B.A."
-resume_title:                   "Honours Double Major - M. Psychology M. Phylosophy"
+resume_title:                   "Honours Double Major - M. Psychology M. Philosophy"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisa_vander@hotmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     "London, Ontario, Canada • lisa_vander@hotmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am an Informed Response Outreach Worker with valuable experience in crisis management, de-escalation, and systems management in the social work field.<br>My current work is focused on supporting vulnerable indidviduals in the community and connecting those persons to medical and social resources.<br>I am interested in applying those skillsets to complex social and mental-health/addiction barriers present in other clinical environments.</p>"
+resume_header_intro: "<p>I am an Informed Response Outreach Worker with valuable experience in crisis management, de-escalation, and systems management in the social work field.<br>My current work is focused on supporting vulnerable indidviduals in the community and connecting them to medical and social resources.<br>These experiences have allowed me to take advantage of my leadership skills in the work environment to encourage others through authoritative and coaching management styles.<br>I am interested in applying those skillsets to complex social and mental-health/addiction barriers present in other clinical environments.<br>My goal is to complete a PhD in Clinical Psychology to improve my education to help my community.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
