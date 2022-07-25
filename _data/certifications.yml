@@ -37,7 +37,8 @@
   #awarder: Western University
   date: 2020 - Expires 2023
   #url: "https://doi.org/10.1002/jor.25239"
-  logo: firstaid.png &mdash; cpr.png
+  logo: firstaid.png
+  logo: cpr.png
 
 - certifications: ASL (level 1)
   #awarder: Western University
