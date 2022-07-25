@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Lisa Vanderpas, B.A."
-resume_title:                   "Honours Double Major - M. Psychology m. Phylosophy"
+resume_title:                   "Honours Double Major - M. Psychology M. Phylosophy"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisa_vander@hotmail.com"

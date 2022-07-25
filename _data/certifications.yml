@@ -1,6 +1,7 @@
 # Certifications
 # uncomment the urls if you wish to display them, and add your own URL
 # make sure to use dois for the url
+# comment out the logo if you do not wish to display them
 
 - certifications: Trauma Training
   #awarder: 
@@ -22,21 +23,21 @@
 
 - certifications: HIFIS Specialist
   #awarder: Western University
-  date: Obtained 2021
+  date: Obtained 2021 
   #url: "https://doi.org/10.1002/jor.25239"
-  #logo:
+  #logo: 
 
 - certifications: CPI Training
   #awarder: Western University
-  date: Obtained 2022 -Expires
+  date: Obtained 2022
   #url: "https://doi.org/10.1002/jor.25239"
   logo: cpi.png
 
 - certifications: CPR & First Aid
   #awarder: Western University
-  date: Obtained 2020 -Expires
+  date: Obtained 2020 - Expires 2023
   #url: "https://doi.org/10.1002/jor.25239"
-  logo: firstaid.png
+  logo: firstaid.png cpr.png
 
 - certifications: ASL (level 1)
   #awarder: Western University
