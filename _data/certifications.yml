@@ -2,8 +2,6 @@
 # uncomment the urls if you wish to display them, and add your own URL
 # make sure to use dois for the url
 
-  url: "file:///Users/lisavander/Desktop/certifications.pdf"
-
 - certifications: Trauma Training
   #awarder: 
   date: 2022 
