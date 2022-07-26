@@ -3,41 +3,41 @@
 # make sure to use dois for the url
 
 - certifications: Trauma Training
-  #awarder: 
+  awarder: CTRI Crisis & trauma Resource Institute
   date: 2022 
   #url: 
 
 - certifications: Mental health and first aid certified
-  #awarder: Responding to Disclosures of Sexual Violence on Campus (Extended), Supporting Disclosures of GBSV, AODA - Accessibility in Teaching, Teaching and Mental Health, Western Safe Campus Community
+  awarder: RespDA - Mental Health & First Aid Canada
   date: 2021 
   #url: "https://doi.org/10.1002/jor.25239"
 
 - certifications: Palliative Care 101- Amplified Health 
-  #awarder: Biosafety, Laboratory Safety and Hazardous Waste Management, Worker Health and Safety
+  awarder: Amplified Health
   date: 2021
   #url: "https://doi.org/10.1002/jor.25239"
 
 - certifications: HIFIS Specialist
-  #awarder: Western University
+  awarder: City of London- Coordinated Access
   date: 2021 
   #url: "https://doi.org/10.1002/jor.25239" 
 
 - certifications: CPI Training
-  #awarder: Western University
+  awarder: Nonviolent Crisis Intervention
   date: 2022
   #url: "https://doi.org/10.1002/jor.25239"
 
 - certifications: CPR - AED & First Aid
-  #awarder: Western University
+  awarder: Perri-Med
   date: 2020 - Expires 2023
   #url: "https://doi.org/10.1002/jor.25239"
 
 - certifications: ASL (level 1)
-  #awarder: Western University
+  awarder: International Open Academy
   date: 2022
   #url: "https://doi.org/10.1002/jor.25239"
 
 - certifications: ASL (level 2) pending
-  #awarder: Western University
+  awarder: International Open Academy
   date: 2022
   #url: "https://doi.org/10.1002/jor.25239"
