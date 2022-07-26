@@ -8,47 +8,38 @@
   #awarder: 
   date: 2022 
   #url: 
-  logo: trauma.png
 
 - certifications: Mental health and first aid certified
   #awarder: Responding to Disclosures of Sexual Violence on Campus (Extended), Supporting Disclosures of GBSV, AODA - Accessibility in Teaching, Teaching and Mental Health, Western Safe Campus Community
   date: 2021 
   #url: "https://doi.org/10.1002/jor.25239"
-  logo: mentalaid.png
 
 - certifications: Palliative Care 101- Amplified Health 
   #awarder: Biosafety, Laboratory Safety and Hazardous Waste Management, Worker Health and Safety
   date: 2021
   #url: "https://doi.org/10.1002/jor.25239"
-  logo: palcare.png
 
 - certifications: HIFIS Specialist
   #awarder: Western University
   date: 2021 
-  #url: "https://doi.org/10.1002/jor.25239"
-  #logo:  
+  #url: "https://doi.org/10.1002/jor.25239" 
 
 - certifications: CPI Training
   #awarder: Western University
   date: 2022
   #url: "https://doi.org/10.1002/jor.25239"
-  logo: cpi.png
 
 - certifications: CPR - AED & First Aid
   #awarder: Western University
   date: 2020 - Expires 2023
   #url: "https://doi.org/10.1002/jor.25239"
-  logo: firstaid.png
-  logo: cpr.png
 
 - certifications: ASL (level 1)
   #awarder: Western University
   date: 2022
   #url: "https://doi.org/10.1002/jor.25239"
-  logo: ASLCERT.png
 
 - certifications: ASL (level 2) pending
   #awarder: Western University
   date: 2022
   #url: "https://doi.org/10.1002/jor.25239"
-  #logo:
