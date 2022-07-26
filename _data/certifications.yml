@@ -5,39 +5,39 @@
 - certifications: Trauma Training
   awarder: CTRI Crisis & trauma Resource Institute
   date: 2022 
-  url: trauma.png
+  url: "https://ca.ctrinstitute.com/""
 
 - certifications: Mental health and first aid certified
-  awarder: RespDA - Mental Health & First Aid Canada
+  awarder: Mental Health & First Aid Canada
   date: 2021 
-  #url: "https://doi.org/10.1002/jor.25239"
+  url: "https://mentalhealthcommission.ca/training/twm/?utm_source=Google&utm_medium=cpc&utm_campaign=TWM+Google+Adwords+Paid&gclid=EAIaIQobChMI682R2qaX-QIVfW1vBB1eKgDYEAAYASAAEgJDKPD_BwE"
 
 - certifications: Palliative Care 101- Amplified Health 
   awarder: Amplified Health
   date: 2021
-  url: "https://doi.org/10.1002/jor.25239"
+  url: "http://palliativecareswo.ca/events/docs/brochures/london_middlesex/Amplified%20Health-Invitation.pdf"
 
 - certifications: HIFIS Specialist
   awarder: City of London- Coordinated Access
   date: 2021 
-  #url: "https://doi.org/10.1002/jor.25239" 
+  #url:  
 
 - certifications: CPI Training
   awarder: Nonviolent Crisis Intervention
   date: 2022
-  #url: "https://doi.org/10.1002/jor.25239"
+  url: "https://institute.crisisprevention.com/Trauma-Informed-Care.html?utm_source=google&utm_medium=cpc&utm_campaign=egp&utm_content=NCI-GEN-TOFU-Search&utm_term=cpi%20trauma%20informed%20care&gclid=EAIaIQobChMIv-_bvqeX-QIV0nNvBB3qcgziEAAYASAAEgId-vD_BwE"
 
 - certifications: CPR - AED & First Aid
   awarder: Perri-Med
   date: 2020 - Expires 2023
-  #url: "https://doi.org/10.1002/jor.25239"
+  url: "https://perrimed.com/"
 
 - certifications: ASL (level 1)
   awarder: International Open Academy
   date: 2022
-  #url: "https://doi.org/10.1002/jor.25239"
+  url: "https://internationalopenacademy.com/"
 
-- certifications: ASL (level 2) pending
+- certifications: ASL (level 2) 
   awarder: International Open Academy
   date: 2022
-  #url: "https://doi.org/10.1002/jor.25239"
+  url: "https://internationalopenacademy.com/"
