@@ -3,11 +3,12 @@
 # make sure to use dois for the url
 
 - certifications: Trauma Training
-  awarder: CTRI Crisis & trauma Resource Institute
+  awarder: CTRI Crisis & Trauma Resource Institute
   date: 2022 
-  url: "https://ca.ctrinstitute.com/""
+  url: "https://ca.ctrinstitute.com/"
 
-- certifications: Mental health and first aid certified
+- certifications: Mental health and First Aid /Certified
+
   awarder: Mental Health & First Aid Canada
   date: 2021 
   url: "https://mentalhealthcommission.ca/training/twm/?utm_source=Google&utm_medium=cpc&utm_campaign=TWM+Google+Adwords+Paid&gclid=EAIaIQobChMI682R2qaX-QIVfW1vBB1eKgDYEAAYASAAEgJDKPD_BwE"
