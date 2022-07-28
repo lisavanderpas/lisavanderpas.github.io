@@ -5,7 +5,7 @@
   link: https://londoncares.ca/
   position: Informed Responce Outreach Worker
   duration:  November. 2021 &mdash; Present
-  summary: <ul class="resume-item-list"><li>Connect with individuals experiencing homelessness and work as a resource by providing housing, support, advocacy, system navigation, community information and crisis de-escalation.</li><li>Supervise the well-being of individuals and engage other services as necessary.</li><li>Responding to crisis situations and applying emergency first aid & overdose response.</li><li>Work to coordinate completion of paper readiness and appropriate housing applications as well as daily referrals and intake.</li><li>Use intervention and mediation skills to defuse conflicts if they can be resolved amongst the individuals.</li><li>Create a welcoming environment by engaging and establishing rapport with individuals.</li><li>Maintain strong communication and collaboration practices with your shift partner, the outreach team, and community partners.</li><li>Daily input into databases and completion of incident reports as necessary.</li></ul>
+  summary: <ul class="resume-item-list"><li>Connect with individuals experiencing homelessness and work as a resource by providing housing support, advocacy, system navigation, community information and crisis de-escalation.</li><li>Supervise the well-being of individuals and engage other services as necessary.</li><li>Responding to crisis situations and applying emergency first aid & overdose response.</li><li>Work to coordinate completion of paper readiness and appropriate housing applications as well as daily referrals and intake.</li><li>Use intervention and mediation skills to defuse conflicts if they can be resolved amongst the individuals.</li><li>Create a welcoming environment by engaging and establishing rapport with individuals.</li><li>Maintain strong communication and collaboration practices with shift partners, the outreach team, and community partners.</li><li>Daily input into databases and completion of incident reports as necessary.</li></ul>
   # keywords:
   #   - Crisis intervention
   #   - Emergency Responce
@@ -17,7 +17,7 @@
   link: https://missionservices.ca/help/mensmission/
   position: Senior Residential Care Worker Supervisor
   duration:  March. 2020  &mdash; Present
-  summary: <ul class="resume-item-list"><li>Conducting crisis counselling/intervention support in keeping with professional standards.</li><li>Monitoring and supporting clients through conflict resolution and crisis intervention strategies.</li><li>Provide system navigation and housing paperwork, as well as wellness check and emergency first aid as necessary.</li><li>Ensuring that intake staff is accurately completing required documentation in a timely manner.</li><li>Assist Program manager in monitoring staff performance, ensuring compliance to MSL's Mission Values and engage in ongoing coaching.</li><li>Developing and supporting a positive team oriented work environment.</li><li>Assist in the hiring, orientation and training of new staff, volunteers and student placements.</li><li>Producing ongoing work schedules for rotating shifts, which provide staffing for the Men's Mission on a 24-hour basis.</li><li>Inputting data into databases to ensure accurate record keeping pertaining to clients.</li><li>Responsible for completing room checks and cleaning; disposing of items in a safe manner.</li></ul>
+  summary: <ul class="resume-item-list"><li>Conducting crisis counselling/intervention support in keeping with professional standards.</li><li>Monitoring and supporting clients through conflict resolution and crisis intervention strategies.</li><li>Provide system navigation and housing paperwork, as well as wellness checks and emergency first aid as necessary.</li><li>Ensuring that intake staff are accurately completing required documentation in a timely manner.</li><li>Assist Program manager in monitoring staff performance, ensuring compliance to MSL's Mission Values and engage in ongoing coaching.</li><li>Developing and supporting a positive team oriented work environment.</li><li>Assist in the hiring, orientation and training of new staff, volunteers and student placements.</li><li>Producing ongoing work schedules for rotating shifts, which provide staffing for the Men's Mission on a 24-hour basis.</li><li>Inputting data into databases to ensure accurate record keeping pertaining to clients.</li><li>Responsible for completing room checks and cleaning; disposing of items in a safe manner.</li></ul>
   # keywords:
   #   - supervisor
 
@@ -77,3 +77,17 @@
   Position: Formen
   duration: May. 2017  &mdash; February. 2018
   summary: <ul class="resume-item-list"><li>Built Decks and Fences for customers</li><li>Worked on a team to complete projects on a timely manor</li><li>Quoted and completed projects on private and business owned properties</li><li>Promoted to formen and was incharge of my daily crew</li></ul>
+
+- #company: Forest City Roofing
+  logo: roofing.png
+  Link: https://forestcityroofing.ca/
+  Position: Laborer
+  durtion: April, 2020  &mdash; February. 2021
+  summary: <ul class="resume-item-list"><li>Dedicated team member to ensure completion of prohjects for clients in a timely manor.</li><li>Tearing up old shingles and disposing of materials safely to ensure a safe work environment</li><li>Installing drip caps, Ice and Water, Synthetic roof underlayment, and applying shingling.</li><li>Knowledge of roof safety and assessing a rof top for potental rots or damaged areas.</li></ul>
+
+- #company: Freelance Artist
+  logo: 
+  Link:
+  Position: Artist
+  duration: April. 2016  &mdash; Present
+  summary: <ul class="resume-item-list"><li>Created art through Acrylic, Oil and Water colour mediums.</li><li>Dedicated to completing requested projects in a timely manor</li><li>Ensured satisfaction of customers perchasing</li></ul>
