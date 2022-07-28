@@ -73,21 +73,21 @@
 
 - #company: Forrans Fence & Decks
   logo: forrans.png
-  Link: https://foransfence.com/
-  Position: Formen
-  duration: May. 2017  &mdash; February. 2018
+  link: https://foransfence.com/
+  position: Formen
+  duration:  May. 2017  &mdash; February. 2018
   summary: <ul class="resume-item-list"><li>Built Decks and Fences for customers</li><li>Worked on a team to complete projects on a timely manor</li><li>Quoted and completed projects on private and business owned properties</li><li>Promoted to formen and was incharge of my daily crew</li></ul>
 
 - #company: Forest City Roofing
   logo: roofing.png
-  Link: https://forestcityroofing.ca/
-  Position: Laborer
-  durtion: April. 2020  &mdash; February. 2021
+  link: https://forestcityroofing.ca/
+  position: Laborer
+  durtion:  April. 2020  &mdash; February. 2021
   summary: <ul class="resume-item-list"><li>Dedicated team member to ensure completion of prohjects for clients in a timely manor.</li><li>Tearing up old shingles and disposing of materials safely to ensure a safe work environment</li><li>Installing drip caps, Ice and Water, Synthetic roof underlayment, and applying shingling.</li><li>Knowledge of roof safety and assessing a rof top for potental rots or damaged areas.</li></ul>
 
-- #company: Freelance Artist
-  logo: profile2.png
-  Link:
-  Position: Artist
+- company: Freelance Artist
+  #logo: profile2.png
+  link: 
+  position: Artist
   duration: April. 2016  &mdash; Present
-  summary: <ul class="resume-item-list"><li>Created art through Acrylic, Oil and Water colour mediums.</li><li>Dedicated to completing requested projects in a timely manor</li><li>Ensured satisfaction of customers perchasing</li></ul>
+  summary: <ul class="resume-item-list"><li>Create art with Acrylic, Oil and Water colour mediums.</li><li>Dedicated to completing requested projects in a timely manor</li><li>Ensured satisfaction of customers perchasing</li></ul>
