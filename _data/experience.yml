@@ -82,11 +82,11 @@
   logo: roofing.png
   link: https://forestcityroofing.ca/
   position: Laborer
-  durtion:  April. 2020  &mdash; February. 2021
+  duration:  April. 2020  &mdash; February. 2021
   summary: <ul class="resume-item-list"><li>Dedicated team member to ensure completion of prohjects for clients in a timely manor.</li><li>Tearing up old shingles and disposing of materials safely to ensure a safe work environment</li><li>Installing drip caps, Ice and Water, Synthetic roof underlayment, and applying shingling.</li><li>Knowledge of roof safety and assessing a rof top for potental rots or damaged areas.</li></ul>
 
-- company: Freelance Artist
-  #logo: profile2.png
+- #company: Freelance Artist
+  #logo:
   link: 
   position: Artist
   duration: April. 2016  &mdash; Present
