@@ -1,10 +1,9 @@
 # Certifications
 # uncomment the urls if you wish to display them, and add your own URL
 # make sure to use dois for the url
-
   
 - certifications: Certificate PDFs
-  #awarder: 
+  awarder: Link to PDF of certifications
   #date: 
   url: "https://lisavander3.editorx.io/certifications"
 
