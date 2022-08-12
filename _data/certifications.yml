@@ -2,6 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 # make sure to use dois for the url
 
+  url: "https://lisavander3.editorx.io/certifications"
+
 - certifications: Trauma Training
   awarder: CTRI Crisis & Trauma Resource Institute
   date: 2022 
