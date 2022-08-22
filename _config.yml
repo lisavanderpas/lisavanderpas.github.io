@@ -58,7 +58,7 @@ resume_social_links:
   resume_website_url:           "https://lisavander3.wixsite.com/my-site-1"
   # resume_medium_url:            "https://medium.com/@jglovier"
   resume_pdf_url:                 "images/cv.pdf"
-  resume_certifications_url:                 "images/certifications.pdf"
+  #resume_certifications_url:                 "images/certifications.pdf"
 resume_print_social_links:      true
 
 # Design settings
