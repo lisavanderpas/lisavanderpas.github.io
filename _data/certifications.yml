@@ -3,6 +3,8 @@
 # make sure to use dois for the url
   
 - certifications: Certificate PDFs
+  awarder: &nbsp;
+  date: 
   url: "https://lisavanderpas.github.io/Certifications/"
 
 - certifications: Trauma Training
@@ -11,7 +13,6 @@
   url: "https://ca.ctrinstitute.com/"
 
 - certifications: Mental health and First Aid /Certified
-
   awarder: Mental Health & First Aid Canada
   date: 2021 
   url: "https://mentalhealthcommission.ca/training/twm/?utm_source=Google&utm_medium=cpc&utm_campaign=TWM+Google+Adwords+Paid&gclid=EAIaIQobChMI682R2qaX-QIVfW1vBB1eKgDYEAAYASAAEgJDKPD_BwE"
