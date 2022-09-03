@@ -3,8 +3,8 @@
 # make sure to use dois for the url
   
 - certifications: Certificate PDFs
-  awarder: &nbsp;
-  date: 
+  #awarder: 
+  #date: 
   url: "https://lisavanderpas.github.io/Certifications/"
 
 - certifications: Trauma Training
