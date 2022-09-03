@@ -3,9 +3,7 @@
 # make sure to use dois for the url
   
 - certifications: Certificate PDFs
-  #awarder: Link to PDF of certifications
-  #date: 
-  url: "https://lisavander3.editorx.io/certifications-2"
+  url: "https://lisavanderpas.github.io/Certifications/"
 
 - certifications: Trauma Training
   awarder: CTRI Crisis & Trauma Resource Institute
