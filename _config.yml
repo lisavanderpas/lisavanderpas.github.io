@@ -49,7 +49,7 @@ resume_section_certifications:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/lisavanderpas"
+  #resume_github_url:            "https://github.com/lisavanderpas"
   # resume_twitter_url:           "http://twitter.com/jglovier"
   resume_dribbble_url:          "https://lisavander3.wixsite.com/vanderpasart"
   # resume_facebook_url:          "insert Facebook URL here"
@@ -57,7 +57,7 @@ resume_social_links:
   # resume_instagram_url:         "https://www.instagram.com/decunningham.build/"
   resume_website_url:           "https://lisavander3.wixsite.com/my-site-1"
   # resume_medium_url:            "https://medium.com/@jglovier"
-  resume_pdf_url:                 "images/cv.pdf"
+  #resume_pdf_url:                 "images/cv.pdf"
   #resume_certifications_url:                 "images/certifications.pdf"
 resume_print_social_links:      true
 
